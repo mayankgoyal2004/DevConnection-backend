@@ -4,7 +4,7 @@
   "description": "backend project",
   "main": "app.js",
   "scripts": {
-    "start": "app.js",
+    "start": "node src/app.js",
     "dev": "nodemon src/app.js"
   },
   "keywords": [
